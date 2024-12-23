@@ -8,7 +8,6 @@ Repository Contents
 preprocess & color_traces/: Contains Python scripts for preprocessing.
 pos/: Contains the algorithm to extract features.
 weights/: Contains the weights for binary and ternary task classifications.
-level_weights/: Contains weights for level classification.
 binaryclassification/: Holds the Python code (.py files) for binary stress task classifications.
 levelclassification/: Contains the Python code (.py files) for stress level classifications.
 
